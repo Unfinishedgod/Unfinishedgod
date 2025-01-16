@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- [AWS 사용한 부동산 대시보드](https://apartment-board.streamlit.app/)
+- [GCP 사용한 주식 대시보드](https://financemlops.streamlit.app/)
+- [DACON: 공간정보 탐색적 데이터 분석 경진대회](https://shjj08.shinyapps.io/dacon_jeju/?_ga=2.53301866.359093333.1647368515-1081683575.1647368515)
+
 <!--
 **Unfinishedgod/Unfinishedgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
